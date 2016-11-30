@@ -1,1 +1,1 @@
-# scuer
+Very simple encoding in js
